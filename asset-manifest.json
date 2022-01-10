@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-react-slider/static/css/main.12175405.chunk.css",
+    "main.js": "/simple-react-slider/static/js/main.dfa222a9.chunk.js",
+    "main.js.map": "/simple-react-slider/static/js/main.dfa222a9.chunk.js.map",
+    "runtime-main.js": "/simple-react-slider/static/js/runtime-main.8cb7f7c0.js",
+    "runtime-main.js.map": "/simple-react-slider/static/js/runtime-main.8cb7f7c0.js.map",
+    "static/js/2.c10a2dd8.chunk.js": "/simple-react-slider/static/js/2.c10a2dd8.chunk.js",
+    "static/js/2.c10a2dd8.chunk.js.map": "/simple-react-slider/static/js/2.c10a2dd8.chunk.js.map",
+    "index.html": "/simple-react-slider/index.html",
+    "static/css/main.12175405.chunk.css.map": "/simple-react-slider/static/css/main.12175405.chunk.css.map",
+    "static/js/2.c10a2dd8.chunk.js.LICENSE.txt": "/simple-react-slider/static/js/2.c10a2dd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cb7f7c0.js",
+    "static/js/2.c10a2dd8.chunk.js",
+    "static/css/main.12175405.chunk.css",
+    "static/js/main.dfa222a9.chunk.js"
+  ]
+}
